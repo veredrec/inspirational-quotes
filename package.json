@@ -2,7 +2,7 @@
   "name": "inspirational-quotes",
   "version": "1.0.0",
   "description": "quotes for inspiration",
-  "main": "test.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +15,10 @@
   "bugs": {
     "url": "https://github.com/veredrec/inspirational-quotes/issues"
   },
-
   "homepage": "https://github.com/veredrec/inspirational-quotes#readme",
   "devDependencies": {
     "istanbul": "^0.4.5",
+    "nodemon": "^1.11.0",
     "tape": "^4.8.0"
   },
   "dependencies": {
